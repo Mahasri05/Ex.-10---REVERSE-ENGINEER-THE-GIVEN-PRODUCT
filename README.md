@@ -33,10 +33,11 @@
 ## Input:
 
 ### Output:
+![WhatsApp Image 2025-05-07 at 10 32 07_e4d453ea](https://github.com/user-attachments/assets/9f10deae-eaba-437a-87c4-271035069f30)
+![WhatsApp Image 2025-05-07 at 10 32 25_46924678](https://github.com/user-attachments/assets/1bbf24d1-c9c5-4d52-8a2b-acedb106d269)
 
-
-### Name:
-### Register Number:
+### Name:Mahasri D
+### Register Number:212224220058
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
